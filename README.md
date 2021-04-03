@@ -1,2 +1,2 @@
 # interface-instagram
-Projeto feito exclusivamente no front, no projeto da Digital Innovation One: "Recriando a página inicial do Instagram".
+#  Pagina de loguin do instagram com toda interface e design da pagina oficial
