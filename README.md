@@ -1,2 +1,2 @@
 # interface-instagram
-#  Pagina de loguin do instagram com toda interface e design da pagina oficial
+#  Pagina de login do instagram com toda interface e design da pagina oficial
